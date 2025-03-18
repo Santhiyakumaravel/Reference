@@ -1,0 +1,51 @@
+.static{
+    position:static;
+    background-color:aquamarine;
+    padding:10px;
+}
+
+.relation
+{
+ position:relative;
+ top:30px;
+ left:30px;
+ background-color: blueviolet;
+ padding: 10px;   
+}
+
+.container
+{
+    height:300px;
+    width:600px;
+    border:5px solid black;
+    position:relative;
+}
+
+.absolute{
+    position:absolute;
+    background-color:blue;
+    top:15px;
+    left:20px;
+    padding:10px;
+}
+
+.fixed
+{
+    position:fixed;
+    top:0;
+    right:0;
+    background-color: chocolate;
+    padding:10px; 
+}
+
+.scroll
+{
+height:150px;
+}
+.sticky
+{
+    position:10px;
+  background-color:palevioletred;
+  top:20px;
+  padding:10px;
+}
